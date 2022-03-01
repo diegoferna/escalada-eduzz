@@ -1,0 +1,23 @@
+{
+  "name": "escalada-eduzz",
+  "version": "1.0.0",
+  "description": "*Here i'm try put some project for show my evoluation skills*",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoferna/escalada-eduzz.git"
+  },
+  "author": "diego nascimento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoferna/escalada-eduzz/issues"
+  },
+  "homepage": "https://github.com/diegoferna/escalada-eduzz#readme",
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
+}
